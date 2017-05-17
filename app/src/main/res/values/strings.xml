@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">caller</string>
+    <string name="title">请输入号码</string>
+    <string name="call">拨打此号码</string>
+</resources>
